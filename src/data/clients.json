@@ -3,240 +3,240 @@
     "name": "Jeitto",
     "category": "Fintech & Pagamentos",
     "badge": "Fintech",
-    "logo": "/assets/clients/Jeitto.png"
+    "logo": "assets/clients/Jeitto.png"
   },
   {
     "name": "Localiza",
     "category": "Mobilidade & Corporativo",
     "badge": "Enterprise",
-    "logo": "/assets/clients/Localiza.png"
+    "logo": "assets/clients/Localiza.png"
   },
   {
     "name": "Dema Jovem (Renapsi)",
     "category": "Educação & Social",
     "badge": "Educação",
-    "logo": "/assets/clients/Dema-Jovem-by-Renapsi_Assinatura-Positiva.png"
+    "logo": "assets/clients/Dema-Jovem-by-Renapsi_Assinatura-Positiva.png"
   },
   {
     "name": "Bolshoi Pub",
     "category": "Entretenimento & Gastronomia",
     "badge": "Entretenimento",
-    "logo": "/assets/clients/bolshoi-pub.png"
+    "logo": "assets/clients/bolshoi-pub.png"
   },
   {
     "name": "SBCM",
     "category": "Saúde & Medicina",
     "badge": "Saúde",
-    "logo": "/assets/clients/sbcm.png"
+    "logo": "assets/clients/sbcm.png"
   },
   {
     "name": "Redentoristas",
     "category": "Institucional & Comunicação",
     "badge": "Institucional",
-    "logo": "/assets/clients/redentoristas.png"
+    "logo": "assets/clients/redentoristas.png"
   },
   {
     "name": "IPHAC",
     "category": "Educação & Aprendizagem",
     "badge": "Educação",
-    "logo": "/assets/clients/iphac.png"
+    "logo": "assets/clients/iphac.png"
   },
   {
     "name": "Rede Pró Aprendiz",
     "category": "Capacitação Profissional",
     "badge": "Capacitação",
-    "logo": "/assets/clients/rede-pro-aprendiz.png"
+    "logo": "assets/clients/rede-pro-aprendiz.png"
   },
   {
     "name": "Itapemirim",
     "category": "Transporte & Logística",
     "badge": "Logística",
-    "logo": "/assets/clients/Itapemirim.png"
+    "logo": "assets/clients/Itapemirim.png"
   },
   {
     "name": "Edoo",
     "category": "EdTech & Cursos Online",
     "badge": "EdTech",
-    "logo": "/assets/clients/edoo.png"
+    "logo": "assets/clients/edoo.png"
   },
   {
     "name": "Sagres Educa",
     "category": "Comunicação & Educação",
     "badge": "Comunicação",
-    "logo": "/assets/clients/sagres-educa.png"
+    "logo": "assets/clients/sagres-educa.png"
   },
   {
     "name": "IntegraPay",
     "category": "Fintech & Gateway",
     "badge": "Fintech",
-    "logo": "/assets/clients/IntegraPay.png"
+    "logo": "assets/clients/IntegraPay.png"
   },
   {
     "name": "Amazon Bank",
     "category": "Serviços Financeiros",
     "badge": "Fintech",
-    "logo": "/assets/clients/amazon-bank.png"
+    "logo": "assets/clients/amazon-bank.png"
   },
   {
     "name": "Bankzz",
     "category": "Banking & Contas Digitais",
     "badge": "Banking",
-    "logo": "/assets/clients/Bankzz.png"
+    "logo": "assets/clients/Bankzz.png"
   },
   {
     "name": "XBank",
     "category": "Soluções Financeiras",
     "badge": "Fintech",
-    "logo": "/assets/clients/xbank.png"
+    "logo": "assets/clients/xbank.png"
   },
   {
     "name": "Monefy",
     "category": "Gestão Financeira",
     "badge": "Fintech",
-    "logo": "/assets/clients/Monefy.png"
+    "logo": "assets/clients/Monefy.png"
   },
   {
     "name": "PagPeg",
     "category": "Pagamentos & Varejo",
     "badge": "Varejo",
-    "logo": "/assets/clients/PagPeg.png"
+    "logo": "assets/clients/PagPeg.png"
   },
   {
     "name": "Sapore",
     "category": "Alimentação Corporativa",
     "badge": "Enterprise",
-    "logo": "/assets/clients/Sapore.png"
+    "logo": "assets/clients/Sapore.png"
   },
   {
     "name": "Medical GYN",
     "category": "Saúde & Clínicas",
     "badge": "Saúde",
-    "logo": "/assets/clients/medical-gyn.png"
+    "logo": "assets/clients/medical-gyn.png"
   },
   {
     "name": "Educa Pulmão",
     "category": "Medicina & Cursos",
     "badge": "Saúde",
-    "logo": "/assets/clients/Educa-pulmao.png"
+    "logo": "assets/clients/Educa-pulmao.png"
   },
   {
     "name": "Mindfulactive",
     "category": "Saúde & Bem-Estar",
     "badge": "Bem-Estar",
-    "logo": "/assets/clients/Mindfulactive.png"
+    "logo": "assets/clients/Mindfulactive.png"
   },
   {
     "name": "Gokee",
     "category": "Tecnologia & Plataformas",
     "badge": "Tech",
-    "logo": "/assets/clients/Gokee.png"
+    "logo": "assets/clients/Gokee.png"
   },
   {
     "name": "Kaoa",
     "category": "E-commerce & Moda",
     "badge": "E-commerce",
-    "logo": "/assets/clients/Kaoa.png"
+    "logo": "assets/clients/Kaoa.png"
   },
   {
     "name": "Floe Cosméticos",
     "category": "Cosméticos & Beleza",
     "badge": "E-commerce",
-    "logo": "/assets/clients/floe-cosmeticos.png"
+    "logo": "assets/clients/floe-cosmeticos.png"
   },
   {
     "name": "Santo Rebanho",
     "category": "Varejo & Vestuário",
     "badge": "Varejo",
-    "logo": "/assets/clients/santo-rebanho.png"
+    "logo": "assets/clients/santo-rebanho.png"
   },
   {
     "name": "Paole",
     "category": "Moda & Confecção",
     "badge": "Moda",
-    "logo": "/assets/clients/Paole.png"
+    "logo": "assets/clients/Paole.png"
   },
   {
     "name": "Rancho Colorado",
     "category": "Agronegócio & Eventos",
     "badge": "Agro",
-    "logo": "/assets/clients/Rancho-Colorado.png"
+    "logo": "assets/clients/Rancho-Colorado.png"
   },
   {
     "name": "Ciclo Engenharia",
     "category": "Engenharia & Construção",
     "badge": "Engenharia",
-    "logo": "/assets/clients/ciclo-engenharia.png"
+    "logo": "assets/clients/ciclo-engenharia.png"
   },
   {
     "name": "Arquitetório",
     "category": "Arquitetura & Design",
     "badge": "Arquitetura",
-    "logo": "/assets/clients/arquitetorio.png"
+    "logo": "assets/clients/arquitetorio.png"
   },
   {
     "name": "Kernholz",
     "category": "Design & Móveis de Alto Padrão",
     "badge": "Design",
-    "logo": "/assets/clients/kernholz.png"
+    "logo": "assets/clients/kernholz.png"
   },
   {
     "name": "Nectar",
     "category": "Tecnologia & CRM",
     "badge": "SaaS",
-    "logo": "/assets/clients/nectar.png"
+    "logo": "assets/clients/nectar.png"
   },
   {
     "name": "Officina App",
     "category": "Aplicativos & Gestão",
     "badge": "App",
-    "logo": "/assets/clients/officina-app.png"
+    "logo": "assets/clients/officina-app.png"
   },
   {
     "name": "Protons",
     "category": "Soluções Digitais",
     "badge": "Tech",
-    "logo": "/assets/clients/protons.png"
+    "logo": "assets/clients/protons.png"
   },
   {
     "name": "Incubadora 3D",
     "category": "Inovação & Startups",
     "badge": "Inovação",
-    "logo": "/assets/clients/incubadora-3d.png"
+    "logo": "assets/clients/incubadora-3d.png"
   },
   {
     "name": "Mamãe Pingo",
     "category": "Moda Infantil & Varejo",
     "badge": "E-commerce",
-    "logo": "/assets/clients/mamae-pingo.png"
+    "logo": "assets/clients/mamae-pingo.png"
   },
   {
     "name": "Sindguardas",
     "category": "Entidades & Associações",
     "badge": "Institucional",
-    "logo": "/assets/clients/sindguardas.png"
+    "logo": "assets/clients/sindguardas.png"
   },
   {
     "name": "Centro Sul",
     "category": "Eventos & Convenções",
     "badge": "Eventos",
-    "logo": "/assets/clients/centro-sul.png"
+    "logo": "assets/clients/centro-sul.png"
   },
   {
     "name": "RGI",
     "category": "Consultoria & Gestão",
     "badge": "Consultoria",
-    "logo": "/assets/clients/rgi.png"
+    "logo": "assets/clients/rgi.png"
   },
   {
     "name": "Proin",
     "category": "Projetos Industriais",
     "badge": "Indústria",
-    "logo": "/assets/clients/proin.png"
+    "logo": "assets/clients/proin.png"
   },
   {
     "name": "Joids",
     "category": "Plataforma Digital",
     "badge": "Tech",
-    "logo": "/assets/clients/joids.png"
+    "logo": "assets/clients/joids.png"
   }
 ]

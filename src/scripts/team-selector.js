@@ -13,13 +13,22 @@ export function initTeamSelector() {
   if (!cardContainer) return;
 
   let currentIndex = 0;
+  const baseUrl = import.meta.env.BASE_URL || './';
+
+  function resolveAssetUrl(path) {
+    if (!path) return '';
+    if (path.startsWith('http')) return path;
+    const clean = path.replace(/^\.\//, '').replace(/^\//, '');
+    return baseUrl + clean;
+  }
 
   function renderCharacter(player) {
     if (!player) return;
+    const photoUrl = resolveAssetUrl(player.photo);
 
     cardContainer.innerHTML = `
       <div class="character-card-avatar" aria-label="Foto de ${player.name}">
-        <img src="${player.photo}" alt="${player.name} - ${player.role}" class="character-card-img" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';" />
+        <img src="${photoUrl}" alt="${player.name} - ${player.role}" class="character-card-img" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';" />
         <div class="character-card-svg-fallback" style="display: none; width: 100%; height: 100%;">
           ${player.avatarSvg}
         </div>
@@ -88,7 +97,6 @@ export function initTeamSelector() {
     const squadSection = document.getElementById('sobre') || document.getElementById('equipe');
     if (!squadSection) return;
 
-    // Only when user is viewing the team section or focused inside it
     const rect = squadSection.getBoundingClientRect();
     const isInView = rect.top < window.innerHeight && rect.bottom > 0;
     if (!isInView) return;

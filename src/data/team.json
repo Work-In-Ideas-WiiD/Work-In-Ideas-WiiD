@@ -24,7 +24,7 @@
     ],
     "quote": "Graphic Design is my passion",
     "bio": "Cria universos visuais marcantes, identidades de marca sólidas e peças de comunicação que geram conexão emocional imediata.",
-    "photo": "/assets/team/Luisa-480x480.png"
+    "photo": "assets/team/Luisa-480x480.png"
   },
   {
     "id": "charles",
@@ -51,7 +51,7 @@
     ],
     "quote": "Combinando a disciplina do jiu-jitsu com sua visão inovadora, integrando tecnologia para impulsionar o sucesso do negócio.",
     "bio": "Lidera a estratégia de produto e engenharia da Work in Ideas, com foco em arquiteturas escaláveis e inovação.",
-    "photo": "/assets/team/IMG_4250-480x480.png"
+    "photo": "assets/team/IMG_4250-480x480.png"
   },
   {
     "id": "murillo",
@@ -78,7 +78,7 @@
     ],
     "quote": "Driven by his passion for gaming and technology, leads with enthusiasm an innovative vision in the business world.",
     "bio": "Responsável pela expansão de novos negócios e parcerias estratégicas da Work in Ideas.",
-    "photo": "/assets/team/IMG_42491-480x480.png"
+    "photo": "assets/team/IMG_42491-480x480.png"
   },
   {
     "id": "anna",
@@ -105,7 +105,7 @@
     ],
     "quote": "My passion transforms pixels into visual poetry",
     "bio": "Especialista em interfaces digitais, sistemas de design consistentes e jornadas de usuário encantadoras.",
-    "photo": "/assets/team/imagem-1-480x480.png"
+    "photo": "assets/team/imagem-1-480x480.png"
   },
   {
     "id": "wanderson",
@@ -132,7 +132,7 @@
     ],
     "quote": "Aplica uma abordagem reflexiva e ética, conduzindo a empresa para um caminho de inovação responsável e sucesso sustentável.",
     "bio": "Garante a solidez financeira e governança dos projetos corporativos.",
-    "photo": "/assets/team/IMG_42471-480x480.png"
+    "photo": "assets/team/IMG_42471-480x480.png"
   },
   {
     "id": "caio",
@@ -159,7 +159,7 @@
     ],
     "quote": "Se você não arriscar, nunca vai saber como poderia ter sido!",
     "bio": "Garante a qualidade de ponta a ponta com testes rigorosos antes de cada entrega.",
-    "photo": "/assets/team/IMG_42451-480x480.png"
+    "photo": "assets/team/IMG_42451-480x480.png"
   },
   {
     "id": "guerber",
@@ -186,7 +186,7 @@
     ],
     "quote": "Nos momentos em que paro para pensar, eu penso parado.",
     "bio": "Desenvolvedor front-end focado em interfaces fluidas, interações modernas e código limpo.",
-    "photo": "/assets/team/IMG_42461-480x480.png"
+    "photo": "assets/team/IMG_42461-480x480.png"
   },
   {
     "id": "guilherme",
@@ -213,6 +213,6 @@
     ],
     "quote": "Seriedade e compromisso, refletindo a dedicação incansável no seu trabalho.",
     "bio": "Especialista em performance web, otimização de renderização e arquitetura de componentes.",
-    "photo": "/assets/team/IMG_4739-480x480.png"
+    "photo": "assets/team/IMG_4739-480x480.png"
   }
 ]

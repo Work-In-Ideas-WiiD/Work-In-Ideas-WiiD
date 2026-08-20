@@ -1,0 +1,31 @@
+{
+  "name": "Work in Ideas",
+  "shortName": "WiiD",
+  "tagline": "We are makers",
+  "slogan": "Desenvolvimento de ideias em tecnologias para negócios digitais",
+  "description": "Fábrica de software sob medida em Goiânia e atendimento global. Especialistas no desenvolvimento de websites de alta conversão, sistemas web escaláveis, aplicativos mobile iOS e Android e soluções digitais inovadoras.",
+  "url": "https://wi-id.com",
+  "phone": "+55 (62) 98339-8612",
+  "phoneRaw": "5562983398612",
+  "whatsappUrl": "https://wa.me/5562983398612?text=Ol%C3%A1%21+Gostaria+de+conversar+sobre+um+projeto+de+software+com+a+Work+in+Ideas.",
+  "email": "contato@wi-id.com",
+  "address": {
+    "street": "Rua 137, nº 556, Qd. 50, Lt. 01, 1º andar, Sala 101, Ed. Alvorada",
+    "neighborhood": "Setor Marista",
+    "city": "Goiânia",
+    "state": "GO",
+    "postalCode": "74170-120",
+    "country": "Brasil"
+  },
+  "socials": {
+    "instagram": "https://www.instagram.com/workinideas/",
+    "linkedin": "https://www.linkedin.com/company/workinideas/",
+    "facebook": "https://www.facebook.com/workinideas"
+  },
+  "stats": [
+    { "value": "+40", "label": "Projetos & Clientes", "description": "Soluções corporativas entregues" },
+    { "value": "100%", "label": "Software Sob Medida", "description": "Arquitetura sob medida para seu negócio" },
+    { "value": "99.9%", "label": "Disponibilidade & Performance", "description": "Foco total em Core Web Vitals e SLA" },
+    { "value": "Squads", "label": "Equipe Multidisciplinar", "description": "Engenheiros, Designers, QA e Gestores" }
+  ]
+}

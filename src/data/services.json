@@ -1,0 +1,142 @@
+[
+  {
+    "id": "desenvolvimento-web",
+    "slug": "desenvolvimento-web",
+    "url": "/servicos/desenvolvimento-web/",
+    "title": "Desenvolvimento de Websites & Landing Pages",
+    "shortTitle": "Websites & Portais",
+    "headline": "Criamos sites exclusivos, de alta performance e focados em conversão",
+    "summary": "Desenvolvemos websites modernos, responsivos e ultra-rápidos que transmitem a autoridade da sua marca e transformam visitantes em clientes qualificados.",
+    "description": "Criamos sites exclusivos, 100% alinhados com a identidade visual da sua marca. Cada detalhe é pensado estrategicamente para transmitir os valores da sua empresa, oferecendo uma experiência de navegação impecável em qualquer dispositivo. Nossos projetos são construídos com as tecnologias web mais modernas, priorizando velocidade de carregamento (Core Web Vitals), segurança de dados e indexação de alta relevância no Google (SEO).",
+    "icon": "globe",
+    "features": [
+      "Design 100% Exclusivo e Responsivo (Mobile-First)",
+      "Otimização Extrema para Motores de Busca (SEO Técnico & Semântico)",
+      "Pontuação Máxima no Google Core Web Vitals & PageSpeed",
+      "Arquitetura Segura, Rápida e com Baixo Custo de Hospedagem",
+      "Integração com WhatsApp, CRM, Analytics e Ferramentas de Marketing"
+    ],
+    "technologies": ["HTML5/CSS3", "Vite", "JavaScript/TypeScript", "React/Next.js", "TailwindCSS", "Node.js"],
+    "keywords": ["desenvolvimento de sites em goiânia", "criação de websites profissionais", "landing page de alta conversão", "desenvolvimento web goias", "site institucional rápido"]
+  },
+  {
+    "id": "sistemas-web",
+    "slug": "sistemas-web",
+    "url": "/servicos/sistemas-web/",
+    "title": "Desenvolvimento de Sistemas Web Sob Medida",
+    "shortTitle": "Sistemas Web",
+    "headline": "Softwares corporativos, automação de processos e plataformas sob medida",
+    "summary": "Aumente a eficiência operacional da sua empresa com sistemas web personalizados, robustos, seguros e escaláveis para suportar o crescimento do seu negócio.",
+    "description": "Em um mercado altamente competitivo, a eficiência e automação dos seus sistemas é o diferencial para o sucesso. Desenvolvemos sistemas web sob medida que se adaptam exatamente aos fluxos de trabalho e particularidades da sua empresa. Desde a automação de rotinas manuais até plataformas complexas de gestão de dados, ERPs customizados e painéis administrativos (Dashboards), entregamos soluções que maximizam a produtividade e reduzem custos operacionais.",
+    "icon": "cpu",
+    "features": [
+      "Arquitetura de Software Escalável e Segura na Nuvem",
+      "Automação de Processos e Redução de Trabalho Manual",
+      "Dashboards Intuitivos e Relatórios em Tempo Real",
+      "APIs RESTful e GraphQL para Integração com Qualquer Sistema",
+      "Controle de Acesso Granular (RBAC) e Criptografia de Ponta a Ponta"
+    ],
+    "technologies": ["Node.js", "Python", "PostgreSQL", "Docker", "AWS/Cloud", "React", "Vue.js"],
+    "keywords": ["desenvolvimento de sistemas web goiânia", "software sob medida", "fábrica de software goiás", "sistema de gestão personalizado", "desenvolvimento de plataformas digitais"]
+  },
+  {
+    "id": "aplicativos-mobile",
+    "slug": "aplicativos-mobile",
+    "url": "/servicos/aplicativos-mobile/",
+    "title": "Desenvolvimento de Aplicativos Mobile (iOS & Android)",
+    "shortTitle": "Aplicativos Mobile",
+    "headline": "Apps nativos e multiplataforma com experiência de usuário superior",
+    "summary": "Criamos aplicativos móveis fluidos, rápidos e intuitivos para colocar o seu produto na palma da mão do seu público em qualquer lugar.",
+    "description": "Desenvolvemos aplicativos sob medida para atender às necessidades exclusivas do seu negócio e dos seus usuários. Cada fluxo de tela e microinteração é planejado cuidadosamente por nosso time de UI/UX para garantir alta retenção e facilidade de uso. Nossos aplicativos são construídos com foco em alto desempenho, consumo inteligente de bateria e memória, integração completa com recursos do smartphone e suporte contínuo após o lançamento nas lojas Apple App Store e Google Play Store.",
+    "icon": "smartphone",
+    "features": [
+      "Aplicativos para iOS (iPhone/iPad) e Android",
+      "Arquitetura Híbrida de Alta Performance (React Native / Flutter)",
+      "Integração com Câmera, Geolocalização, Biometria e Push Notifications",
+      "Funcionamento Offline com Sincronização Inteligente",
+      "Publicação e Gestão Completa nas Lojas App Store e Google Play"
+    ],
+    "technologies": ["React Native", "Flutter", "TypeScript", "Firebase", "Apple App Store", "Google Play"],
+    "keywords": ["desenvolvimento de aplicativos goiânia", "desenvolvimento de apps goias", "criação de aplicativos mobile", "desenvolvedor flutter react native", "aplicativos sob medida"]
+  },
+  {
+    "id": "ecommerce",
+    "slug": "ecommerce",
+    "url": "/servicos/ecommerce/",
+    "title": "Lojas Virtuais & Plataformas de E-commerce",
+    "shortTitle": "Lojas Virtuais",
+    "headline": "E-commerces de alta conversão, rápidos, seguros e integrados",
+    "summary": "Potencialize suas vendas online com uma loja virtual exclusiva, checkout transparente sem atrito e infraestrutura preparada para grandes volumes de pedidos.",
+    "description": "Criamos lojas virtuais com design único e alinhadas à proposta de valor da sua marca. Não entregamos apenas uma vitrine virtual: estruturamos uma verdadeira máquina de vendas. Otimizamos cada etapa do funil — desde a descoberta de produtos até o checkout transparente —, garantindo segurança total contra fraudes, cálculo automático de frete, múltiplos meios de pagamento (Pix, Cartão, Boleto) e SEO direcionado para busca de produtos.",
+    "icon": "shopping-bag",
+    "features": [
+      "Checkout Transparente Otimizado para Máxima Conversão",
+      "Integração com Gateways de Pagamento (Mercado Pago, Asaas, Stripe, Pagar.me)",
+      "Cálculo Automático de Frete com Correios e Melhores Transportadoras",
+      "Gestão Simplificada de Produtos, Estoque e Pedidos",
+      "SEO Avançado para Catálogo de Produtos e Categorias"
+    ],
+    "technologies": ["Headless Commerce", "WooCommerce/Shopify", "Node.js", "React", "APIs de Pagamento"],
+    "keywords": ["desenvolvimento de e-commerce goiânia", "criação de loja virtual", "loja virtual rápida e segura", "plataforma de vendas online", "checkout transparente"]
+  },
+  {
+    "id": "portais-conteudo",
+    "slug": "portais-conteudo",
+    "url": "/servicos/desenvolvimento-web/",
+    "title": "Portais de Conteúdo & Plataformas Editoriais",
+    "shortTitle": "Portais de Conteúdo",
+    "headline": "Plataformas robustas para publicação, notícias e alto tráfego",
+    "summary": "Portais de notícias, blogs corporativos e plataformas de conteúdo com gerenciamento intuitivo e velocidade extrema para milhões de acessos.",
+    "description": "Criamos portais de conteúdo que refletem a identidade única da sua marca e suportam grandes picos de audiência. Cada elemento visual e editorial é projetado para engajar o leitor e valorizar os patrocinadores. Oferecemos sistemas de gerenciamento de conteúdo (CMS) poderosos e fáceis de operar, permitindo que a sua equipe editorial publique textos, galerias de imagens, podcasts e vídeos com máxima agilidade e indexação em tempo real no Google Notícias e Discover.",
+    "icon": "newspaper",
+    "features": [
+      "Arquitetura Editorial com Categorização Dinâmica e Tags",
+      "Carregamento Instantâneo com Cache Avançado e CDN Global",
+      "Espaços Estratégicos para Monetização e Publicidade",
+      "Otimizado para Google News, Google Discover e Redes Sociais",
+      "CMS Intuitivo e Seguro para Múltiplos Autores e Editores"
+    ],
+    "technologies": ["Next.js", "Strapi/Headless CMS", "PostgreSQL", "Cloudflare CDN", "SEO Editorial"],
+    "keywords": ["desenvolvimento de portais de notícias", "portal de conteúdo corporativo", "cms personalizado", "portal editorial goiânia"]
+  },
+  {
+    "id": "multimidia",
+    "slug": "multimidia",
+    "url": "/servicos/desenvolvimento-web/",
+    "title": "Conteúdo Multimídia & Experiências Interativas",
+    "shortTitle": "Conteúdo Multimídia",
+    "headline": "Interatividade, animações e experiências digitais memoráveis",
+    "summary": "Engaje seu público com experiências interativas que combinam vídeo, áudio, ilustrações dinâmicas e elementos visuais de alto impacto.",
+    "description": "Criamos materiais multimídia que utilizam a combinação perfeita de diferentes formatos: gráficos interativos, animações CSS/WebGL, vídeos imersivos e recursos de gamificação. Essa abordagem proporciona uma experiência muito mais rica e envolvente para o usuário, conectando a sua marca de forma emocional e memorável aos seus clientes.",
+    "icon": "video",
+    "features": [
+      "Animações Interativas e Microinterações Fluídas",
+      "Elementos 3D Leves e Gamificação Web",
+      "Infográficos Interativos e Visualização de Dados Complexos",
+      "Otimização de Mídia para Não Comprometer o Tempo de Carregamento",
+      "Compatibilidade Total com Dispositivos Móveis e Telas Retina"
+    ],
+    "technologies": ["Three.js", "GSAP / CSS Animations", "SVG Interativo", "Canvas API", "WebP/AVIF"],
+    "keywords": ["animações interativas web", "conteúdo multimídia goiânia", "experiência digital interativa", "design multimídia"]
+  },
+  {
+    "id": "outsourcing",
+    "slug": "outsourcing",
+    "url": "/servicos/outsourcing/",
+    "title": "Equipe Técnica & Squads Ágeis (Outsourcing)",
+    "shortTitle": "Squads & Outsourcing",
+    "headline": "Profissionais seniores para acelerar o desenvolvimento do seu produto",
+    "summary": "Alocação de squads especializadas em desenvolvimento de software, QA, UI/UX e gestão técnica para impulsionar o seu time interno.",
+    "description": "Oferecemos squads técnicas completas e flexíveis para empresas que buscam acelerar seu roadmap de produtos sem os custos e a lentidão de contratações tradicionais. O papel das nossas equipes vai muito além do código: atuamos em todo o ciclo de vida do software — desde o refinamento de requisitos até a arquitetura, esteiras de CI/CD, testes automatizados e sustentação contínua com metodologias ágeis.",
+    "icon": "users",
+    "features": [
+      "Desenvolvedores Full-Stack, Front-end e Back-end Seniores",
+      "Designers de Produto (UI/UX) e Product Owners Especialistas",
+      "Engenheiros de Qualidade (QA) com Testes Manuais e Automatizados",
+      "Metodologia Ágil (Scrum/Kanban) com Entregas Semanais",
+      "Comunicação Clara, Transparência e Alinhamento Direto ao Negócio"
+    ],
+    "technologies": ["Scrum", "Kanban", "Git / GitHub Actions", "TypeScript", "Node.js", "Cloud AWS/GCP"],
+    "keywords": ["outsourcing de ti goiânia", "alocação de equipe técnica de software", "squads ágeis de desenvolvimento", "fábrica de software sob demanda", "desenvolvedores sob medida"]
+  }
+]

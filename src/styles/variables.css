@@ -1,0 +1,72 @@
+:root {
+  /* WiiD Synthwave & Cyberpunk Palette */
+  --color-bg-primary: #07070A;
+  --color-bg-secondary: #0D0B14;
+  --color-bg-card: #120E22;
+  --color-bg-card-hover: #1A1433;
+  --color-bg-glass: rgba(13, 11, 20, 0.85);
+
+  /* Neon Accents */
+  --color-neon-pink: #FF007A;
+  --color-neon-magenta: #FF2A85;
+  --color-neon-orange: #FF8A00;
+  --color-neon-amber: #FFA500;
+  --color-neon-purple: #9B51E0;
+  --color-neon-cyan: #00F0FF;
+  --color-neon-blue: #38BDF8;
+  --color-neon-green: #10B981;
+
+  /* Gradients */
+  --grad-sunset: linear-gradient(90deg, #FF007A 0%, #FF8A00 100%);
+  --grad-sunset-vertical: linear-gradient(180deg, #FF007A 0%, #FF8A00 100%);
+  --grad-synthwave-purple: linear-gradient(180deg, rgba(155, 81, 224, 0.25) 0%, rgba(13, 11, 20, 0) 100%);
+  --grad-hero-sun: linear-gradient(180deg, #FF007A 0%, #FFA500 100%);
+  --grad-card-border: linear-gradient(135deg, rgba(255, 0, 122, 0.4) 0%, rgba(155, 81, 224, 0.3) 50%, rgba(0, 240, 255, 0.2) 100%);
+
+  /* Text & Foreground */
+  --color-text-primary: #FFFFFF;
+  --color-text-secondary: #D1D5DB;
+  --color-text-muted: #9CA3AF;
+  --color-text-pink: #FF007A;
+  --color-text-cyan: #00F0FF;
+
+  /* Borders & Dividers */
+  --border-subtle: rgba(255, 255, 255, 0.1);
+  --border-pink: rgba(255, 0, 122, 0.4);
+  --border-cyan: rgba(0, 240, 255, 0.4);
+  --border-purple: rgba(155, 81, 224, 0.4);
+
+  /* Typography */
+  --font-pixel: 'Press Start 2P', monospace;
+  --font-mono: 'Source Code Pro', 'Space Mono', 'JetBrains Mono', monospace;
+  --font-heading: 'Source Code Pro', 'Space Mono', sans-serif;
+  --font-body: 'Source Sans 3', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  /* Spacing */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+  --space-20: 5rem;
+  --space-24: 6rem;
+
+  /* Border Radii */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+  --radius-pill: 9999px;
+
+  /* Shadows & Glows */
+  --glow-pink: 0 0 20px rgba(255, 0, 122, 0.45);
+  --glow-orange: 0 0 20px rgba(255, 138, 0, 0.45);
+  --glow-cyan: 0 0 20px rgba(0, 240, 255, 0.45);
+  --glow-purple: 0 0 30px rgba(155, 81, 224, 0.35);
+
+  --container-max: 1200px;
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "integrapay-platform",
+    "title": "IntegraPay — Gateway de Pagamentos & Cobrança Digital",
+    "category": "Sistemas Web & Fintech",
+    "tag": "Fintech / Sistema Web",
+    "client": "IntegraPay",
+    "summary": "Plataforma de alta volumetria para orquestração de pagamentos via Pix, cartão de crédito e boleto com conciliação automática.",
+    "description": "Desenvolvimento completo da arquitetura de backend e painel web para processamento seguro de pagamentos, checkout transparente e dashboards analíticos em tempo real.",
+    "deliverables": ["Arquitetura de Microsserviços", "Dashboard Web Responsivo", "APIs de Checkout Transparente", "Conciliação Financeira Automatizada"],
+    "technologies": ["Node.js", "TypeScript", "PostgreSQL", "Redis", "Docker", "AWS"],
+    "metrics": ["+1M transações processadas", "99.99% uptime", "< 200ms tempo de resposta"]
+  },
+  {
+    "id": "edoo-plataforma-cursos",
+    "title": "Edoo — Ecossistema de Aprendizagem & Cursos Online",
+    "category": "EdTech & Web App",
+    "tag": "EdTech / Web & Mobile",
+    "client": "Edoo",
+    "summary": "Plataforma de ensino a distância interativa com player de vídeo adaptativo, gamificação e emissão automática de certificados.",
+    "description": "Portal educacional completo com área do aluno, gestão de turmas, avaliações interativas e trilhas de aprendizagem personalizadas.",
+    "deliverables": ["Plataforma Web (LMS)", "Player de Vídeo HLS Otimizado", "Módulo de Gamificação", "Área Administrativa do Instrutor"],
+    "technologies": ["React", "Next.js", "Node.js", "TailwindCSS", "PostgreSQL"],
+    "metrics": ["+50 mil alunos ativos", "Nota 4.9 de satisfação", "100% Mobile Ready"]
+  },
+  {
+    "id": "officina-app",
+    "title": "Officina App — Gestão de Serviços & Atendimento Mobile",
+    "category": "Aplicativos Mobile",
+    "tag": "App Mobile iOS & Android",
+    "client": "Officina",
+    "summary": "Aplicativo mobile para agendamento de serviços, controle de ordens de serviço e acompanhamento em tempo real para clientes e técnicos.",
+    "description": "Aplicativo nativo desenvolvido em React Native com geolocalização, leitura de QR Code, notificações push e sincronização offline.",
+    "deliverables": ["App para iOS e Android", "Painel Web do Gestor", "Notificações Push em Tempo Real", "Modo Offline com Sincronização"],
+    "technologies": ["React Native", "TypeScript", "Firebase", "Node.js", "Google Maps API"],
+    "metrics": ["+30 mil downloads", "Redução de 40% no tempo de atendimento", "4.8 estrelas nas lojas"]
+  },
+  {
+    "id": "bolshoi-portal",
+    "title": "Bolshoi Pub — Portal de Eventos & Venda de Ingressos",
+    "category": "Websites & Portais",
+    "tag": "Website & Experiência Digital",
+    "client": "Bolshoi Pub",
+    "summary": "Portal dinâmico com agenda de shows, integração de ingressos, cardápio digital e visual rock'n'roll imersivo.",
+    "description": "Redesign e desenvolvimento de website de alto impacto visual com carregamento ultra-rápido, integração com ticketing e SEO para eventos locais.",
+    "deliverables": ["Website Institucional & Agenda", "Cardápio Digital Interativo", "Integração de Ingressos", "SEO Local Otimizado"],
+    "technologies": ["HTML5/CSS3", "JavaScript", "Vite", "WebP Optimization", "Schema.org Event"],
+    "metrics": ["Aumento de 65% em acessos orgânicos", "100 no PageSpeed", "Taxa de rejeição reduzida em 50%"]
+  },
+  {
+    "id": "kaoa-ecommerce",
+    "title": "Kaoa — E-commerce & Experiência de Moda Digital",
+    "category": "E-commerce & Lojas Virtuais",
+    "tag": "E-commerce / Moda",
+    "client": "Kaoa",
+    "summary": "Loja virtual de moda com visual clean, filtros inteligentes de produtos, provador virtual e checkout acelerado.",
+    "description": "E-commerce completo focado em alta conversão no mobile, cálculo de frete instantâneo e integração com catálogo do Instagram/Google Shopping.",
+    "deliverables": ["Loja Virtual Mobile-First", "Checkout em 1 Passo", "Filtro Dinâmico de Tamanhos/Cores", "Integração com Mercado Pago & Correios"],
+    "technologies": ["Headless Commerce", "React", "Node.js", "TailwindCSS", "Cloudflare CDN"],
+    "metrics": ["Taxa de conversão +38%", "Tempo de carregamento < 1s", "Vendas mobile 82% do total"]
+  },
+  {
+    "id": "sbcm-portal-medico",
+    "title": "SBCM — Portal Científico & Sistema de Associados",
+    "category": "Sistemas Web & Saúde",
+    "tag": "Portal Corporativo / Saúde",
+    "client": "SBCM",
+    "summary": "Portal corporativo e área de associados para a Sociedade Brasileira de Clínica Médica, com publicações científicas e emissão de certificados.",
+    "description": "Ambiente digital seguro para gestão de médicos associados, biblioteca de artigos científicos e controle de anuidade.",
+    "deliverables": ["Portal Institucional", "Área Restrita do Médico", "Biblioteca Científica com Busca Rápida", "Sistema de Gestão de Eventos"],
+    "technologies": ["Next.js", "PostgreSQL", "Node.js", "Docker", "S3 Storage"],
+    "metrics": ["+15 mil médicos cadastrados", "Segurança em conformidade com LGPD", "Disponibilidade 99.9%"]
+  }
+]

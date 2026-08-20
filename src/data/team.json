@@ -1,0 +1,218 @@
+[
+  {
+    "id": "luisa",
+    "name": "Luísa",
+    "role": "Design",
+    "hairColor": "#00F0FF",
+    "avatarSvg": "<svg viewBox='0 0 100 100' fill='none' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='50' fill='#1A1B35'/><path d='M25 35C25 15 75 15 75 35C85 55 80 85 75 90C70 95 30 95 25 90C20 85 15 55 25 35Z' fill='#00F0FF'/><circle cx='50' cy='48' r='22' fill='#FFE0BD'/><path d='M30 40C35 48 45 42 50 44C55 42 65 48 70 40C70 25 30 25 30 40Z' fill='#00C4D6'/><circle cx='42' cy='48' r='3' fill='#111827'/><circle cx='58' cy='48' r='3' fill='#111827'/><path d='M46 56C48 58 52 58 54 56' stroke='#111827' stroke-width='2' stroke-linecap='round'/><path d='M35 75C35 68 65 68 65 75L68 100H32L35 75Z' fill='#111827'/></svg>",
+    "stats": [
+      {
+        "name": "DEX",
+        "stars": "★★★★★",
+        "value": 5
+      },
+      {
+        "name": "STAMINA",
+        "stars": "★★★★☆",
+        "value": 4
+      },
+      {
+        "name": "TALENT",
+        "stars": "★★★★★",
+        "value": 5
+      }
+    ],
+    "quote": "Graphic Design is my passion",
+    "bio": "Cria universos visuais marcantes, identidades de marca sólidas e peças de comunicação que geram conexão emocional imediata.",
+    "photo": "/assets/team/Luisa-480x480.png"
+  },
+  {
+    "id": "charles",
+    "name": "Charles",
+    "role": "CPO",
+    "hairColor": "#8B5CF6",
+    "avatarSvg": "<svg viewBox='0 0 100 100' fill='none' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='50' fill='#1A1B35'/><circle cx='50' cy='48' r='22' fill='#E0A96D'/><path d='M30 35C35 25 65 25 70 35C72 32 68 20 50 20C32 20 28 32 30 35Z' fill='#1E293B'/><circle cx='42' cy='48' r='3' fill='#111827'/><circle cx='58' cy='48' r='3' fill='#111827'/><path d='M44 54C47 57 53 57 56 54' stroke='#111827' stroke-width='2' stroke-linecap='round'/><path d='M38 58C42 63 58 63 62 58' stroke='#1E293B' stroke-width='3'/><path d='M35 75C35 68 65 68 65 75L68 100H32L35 75Z' fill='#10B981'/></svg>",
+    "stats": [
+      {
+        "name": "STRATEGY",
+        "stars": "★★★★★",
+        "value": 5
+      },
+      {
+        "name": "JIU-JITSU",
+        "stars": "★★★★★",
+        "value": 5
+      },
+      {
+        "name": "TECH LEAD",
+        "stars": "★★★★★",
+        "value": 5
+      }
+    ],
+    "quote": "Combinando a disciplina do jiu-jitsu com sua visão inovadora, integrando tecnologia para impulsionar o sucesso do negócio.",
+    "bio": "Lidera a estratégia de produto e engenharia da Work in Ideas, com foco em arquiteturas escaláveis e inovação.",
+    "photo": "/assets/team/IMG_4250-480x480.png"
+  },
+  {
+    "id": "murillo",
+    "name": "Murillo",
+    "role": "CBO",
+    "hairColor": "#F59E0B",
+    "avatarSvg": "<svg viewBox='0 0 100 100' fill='none' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='50' fill='#1A1B35'/><circle cx='50' cy='48' r='22' fill='#F3C59D'/><path d='M28 35C30 20 70 20 72 35C75 28 65 18 50 18C35 18 25 28 28 35Z' fill='#451A03'/><circle cx='42' cy='48' r='3' fill='#111827'/><circle cx='58' cy='48' r='3' fill='#111827'/><path d='M46 56C48 58 52 58 54 56' stroke='#111827' stroke-width='2' stroke-linecap='round'/><path d='M35 75C35 68 65 68 65 75L68 100H32L35 75Z' fill='#6366F1'/></svg>",
+    "stats": [
+      {
+        "name": "BUSINESS",
+        "stars": "★★★★★",
+        "value": 5
+      },
+      {
+        "name": "GAMING",
+        "stars": "★★★★★",
+        "value": 5
+      },
+      {
+        "name": "GROWTH",
+        "stars": "★★★★☆",
+        "value": 4
+      }
+    ],
+    "quote": "Driven by his passion for gaming and technology, leads with enthusiasm an innovative vision in the business world.",
+    "bio": "Responsável pela expansão de novos negócios e parcerias estratégicas da Work in Ideas.",
+    "photo": "/assets/team/IMG_42491-480x480.png"
+  },
+  {
+    "id": "anna",
+    "name": "Anna",
+    "role": "Design",
+    "hairColor": "#EC4899",
+    "avatarSvg": "<svg viewBox='0 0 100 100' fill='none' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='50' fill='#1A1B35'/><path d='M22 40C22 15 78 15 78 40C82 60 78 85 75 90C70 95 30 95 25 90C22 85 18 60 22 40Z' fill='#A855F7'/><circle cx='50' cy='48' r='22' fill='#FFE0BD'/><circle cx='42' cy='48' r='3' fill='#111827'/><circle cx='58' cy='48' r='3' fill='#111827'/><path d='M46 56C48 58 52 58 54 56' stroke='#111827' stroke-width='2' stroke-linecap='round'/><path d='M35 75C35 68 65 68 65 75L68 100H32L35 75Z' fill='#EC4899'/></svg>",
+    "stats": [
+      {
+        "name": "UI/UX",
+        "stars": "★★★★★",
+        "value": 5
+      },
+      {
+        "name": "CREATIVITY",
+        "stars": "★★★★★",
+        "value": 5
+      },
+      {
+        "name": "PRECISION",
+        "stars": "★★★★★",
+        "value": 5
+      }
+    ],
+    "quote": "My passion transforms pixels into visual poetry",
+    "bio": "Especialista em interfaces digitais, sistemas de design consistentes e jornadas de usuário encantadoras.",
+    "photo": "/assets/team/imagem-1-480x480.png"
+  },
+  {
+    "id": "wanderson",
+    "name": "Wanderson",
+    "role": "CFO",
+    "hairColor": "#64748B",
+    "avatarSvg": "<svg viewBox='0 0 100 100' fill='none' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='50' fill='#1A1B35'/><circle cx='50' cy='48' r='22' fill='#D4A373'/><circle cx='42' cy='48' r='3' fill='#111827'/><circle cx='58' cy='48' r='3' fill='#111827'/><path d='M46 55C48 57 52 57 54 55' stroke='#111827' stroke-width='2' stroke-linecap='round'/><path d='M35 75C35 68 65 68 65 75L68 100H32L35 75Z' fill='#334155'/></svg>",
+    "stats": [
+      {
+        "name": "FINANCE",
+        "stars": "★★★★★",
+        "value": 5
+      },
+      {
+        "name": "ETHICS",
+        "stars": "★★★★★",
+        "value": 5
+      },
+      {
+        "name": "GOVERNANCE",
+        "stars": "★★★★★",
+        "value": 5
+      }
+    ],
+    "quote": "Aplica uma abordagem reflexiva e ética, conduzindo a empresa para um caminho de inovação responsável e sucesso sustentável.",
+    "bio": "Garante a solidez financeira e governança dos projetos corporativos.",
+    "photo": "/assets/team/IMG_42471-480x480.png"
+  },
+  {
+    "id": "caio",
+    "name": "Caio",
+    "role": "QA",
+    "hairColor": "#10B981",
+    "avatarSvg": "<svg viewBox='0 0 100 100' fill='none' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='50' fill='#1A1B35'/><circle cx='50' cy='48' r='22' fill='#F3C59D'/><circle cx='42' cy='48' r='3' fill='#111827'/><circle cx='58' cy='48' r='3' fill='#111827'/><path d='M46 56C48 58 52 58 54 56' stroke='#111827' stroke-width='2' stroke-linecap='round'/><path d='M35 75C35 68 65 68 65 75L68 100H32L35 75Z' fill='#059669'/></svg>",
+    "stats": [
+      {
+        "name": "TESTING",
+        "stars": "★★★★★",
+        "value": 5
+      },
+      {
+        "name": "QUALITY",
+        "stars": "★★★★★",
+        "value": 5
+      },
+      {
+        "name": "SPEED",
+        "stars": "★★★★☆",
+        "value": 4
+      }
+    ],
+    "quote": "Se você não arriscar, nunca vai saber como poderia ter sido!",
+    "bio": "Garante a qualidade de ponta a ponta com testes rigorosos antes de cada entrega.",
+    "photo": "/assets/team/IMG_42451-480x480.png"
+  },
+  {
+    "id": "guerber",
+    "name": "Guerber",
+    "role": "Dev. Front",
+    "hairColor": "#3B82F6",
+    "avatarSvg": "<svg viewBox='0 0 100 100' fill='none' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='50' fill='#1A1B35'/><circle cx='50' cy='48' r='22' fill='#FFE0BD'/><circle cx='42' cy='48' r='3' fill='#111827'/><circle cx='58' cy='48' r='3' fill='#111827'/><path d='M46 56C48 58 52 58 54 56' stroke='#111827' stroke-width='2' stroke-linecap='round'/><path d='M35 75C35 68 65 68 65 75L68 100H32L35 75Z' fill='#2563EB'/></svg>",
+    "stats": [
+      {
+        "name": "FRONTEND",
+        "stars": "★★★★★",
+        "value": 5
+      },
+      {
+        "name": "REACT/VUE",
+        "stars": "★★★★★",
+        "value": 5
+      },
+      {
+        "name": "LOGIC",
+        "stars": "★★★★☆",
+        "value": 4
+      }
+    ],
+    "quote": "Nos momentos em que paro para pensar, eu penso parado.",
+    "bio": "Desenvolvedor front-end focado em interfaces fluidas, interações modernas e código limpo.",
+    "photo": "/assets/team/IMG_42461-480x480.png"
+  },
+  {
+    "id": "guilherme",
+    "name": "Guilherme",
+    "role": "Dev. Front",
+    "hairColor": "#38BDF8",
+    "avatarSvg": "<svg viewBox='0 0 100 100' fill='none' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='50' fill='#1A1B35'/><circle cx='50' cy='48' r='22' fill='#FFE0BD'/><circle cx='42' cy='48' r='3' fill='#111827'/><circle cx='58' cy='48' r='3' fill='#111827'/><path d='M46 56C48 58 52 58 54 56' stroke='#111827' stroke-width='2' stroke-linecap='round'/><path d='M35 75C35 68 65 68 65 75L68 100H32L35 75Z' fill='#0284C7'/></svg>",
+    "stats": [
+      {
+        "name": "FRONTEND",
+        "stars": "★★★★★",
+        "value": 5
+      },
+      {
+        "name": "CORE VITALS",
+        "stars": "★★★★★",
+        "value": 5
+      },
+      {
+        "name": "COMMITMENT",
+        "stars": "★★★★★",
+        "value": 5
+      }
+    ],
+    "quote": "Seriedade e compromisso, refletindo a dedicação incansável no seu trabalho.",
+    "bio": "Especialista em performance web, otimização de renderização e arquitetura de componentes.",
+    "photo": "/assets/team/IMG_4739-480x480.png"
+  }
+]

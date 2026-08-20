@@ -1,0 +1,6 @@
+# Robots.txt for https://wi-id.com
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://wi-id.com/sitemap.xml

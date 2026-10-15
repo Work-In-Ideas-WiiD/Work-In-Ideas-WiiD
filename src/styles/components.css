@@ -105,6 +105,27 @@
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6), 0 0 25px rgba(155, 81, 224, 0.2);
 }
 
+.service-detail-panel {
+  display: none;
+}
+
+.service-detail-panel.active {
+  display: block;
+  animation: fadeInService 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@keyframes fadeInService {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media print, (scripting: none) {
+  .service-detail-panel {
+    display: block !important;
+    margin-bottom: var(--space-6);
+  }
+}
+
 .folder-icon-svg {
   width: 54px;
   height: 54px;

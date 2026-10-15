@@ -1,0 +1,31 @@
+# Work in Ideas (WiiD)
+
+> Fábrica de software sob medida, desenvolvimento de aplicativos móveis (iOS e Android), sistemas web corporativos, lojas virtuais (e-commerce) e squads ágeis de desenvolvimento de software com sede em Goiânia/GO.
+
+## Sobre a Empresa
+- **Nome:** Work in Ideas (WiiD)
+- **Segmento:** Desenvolvimento de Software e Negócios Digitais
+- **Slogan:** We are makers
+- **Localização:** Rua 137, nº 556 Qd. 50, Lt. 01 - 1º andar, Sala 101 - Ed. Alvorada - Setor Marista, Goiânia - GO, CEP 74170-120
+- **Contato:** (62) 98339-8612 | contato@wi-id.com
+- **Horário de Atendimento:** Segunda à Sexta das 09h às 18h
+- **Redes Sociais:** Instagram (@workinideas), LinkedIn, Facebook
+
+## Serviços Especializados
+- **Desenvolvimento de Websites:** Sites institucionais exclusivos, responsivos e otimizados para Core Web Vitals, SEO e alta conversão.
+- **Sistemas Web Sob Medida:** Engenharia de software personalizada, ERPs, CRMs, automação de fluxos operacionais e dashboards escaláveis.
+- **Aplicativos Mobile:** Aplicativos nativos e híbridos para smartphones iOS e Android, com foco em usabilidade, segurança e alta performance.
+- **Lojas Virtuais (E-commerce):** Plataformas de comércio eletrônico com checkout transparente, integrações de pagamento e frete automatizados.
+- **Equipe Técnica & Squads Ágeis:** Alocação de squads multidisciplinares de desenvolvedores, analistas de QA, designers de UI/UX e líderes técnicos.
+
+## Páginas Principais
+- [Início](https://wi-id.com/): Visão geral da empresa, modelo de entrega em 4 etapas (Análise, Modelagem, Desenvolvimento, Evolução), catálogo de serviços e clientes.
+- [Serviços](https://wi-id.com/servicos/): Catálogo geral de soluções em engenharia de software e tecnologia.
+- [Criação de Sites](https://wi-id.com/servicos/desenvolvimento-web/): Desenvolvimento de websites profissionais e landing pages exclusivas.
+- [Sistemas Web Sob Medida](https://wi-id.com/servicos/sistemas-web/): Desenvolvimento de sistemas corporativos, plataformas web e integrações de API.
+- [Aplicativos Mobile](https://wi-id.com/servicos/aplicativos-mobile/): Desenvolvimento de aplicativos para smartphone (iOS e Android).
+- [Lojas Virtuais](https://wi-id.com/servicos/ecommerce/): Criação e desenvolvimento de e-commerces de alta conversão e segurança.
+- [Squads Ágeis & Equipe Técnica](https://wi-id.com/servicos/outsourcing/): Alocação de desenvolvedores e squads de sustentação técnica sob medida.
+- [Projetos & Portfólio](https://wi-id.com/projetos/): Casos de sucesso, portfólio 2026 e clientes atendidos como Localiza, Jeitto e Sapore.
+- [Sobre Nós](https://wi-id.com/sobre/): História da Work in Ideas, cultura maker, equipe e manifesto institucional.
+- [Contato & Orçamento](https://wi-id.com/contato/): Canais diretos de atendimento via WhatsApp, formulário e localização no Setor Marista, Goiânia/GO.

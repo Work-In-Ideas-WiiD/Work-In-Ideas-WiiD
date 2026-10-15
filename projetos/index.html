@@ -29,6 +29,9 @@
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 
+  <!-- Bootstrap Icons -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" />
+
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://wi-id.com/projetos/" />
@@ -68,11 +71,16 @@
           <a href="/projetos/" class="nav-link active">Projetos &amp; Clientes</a>
           <a href="/sobre/" class="nav-link">Sobre Nós</a>
           <a href="/contato/" class="nav-link">Fale Conosco</a>
+          <div class="mobile-drawer-cta">
+            <a href="https://wa.me/5562983398612?text=Ol%C3%A1%21+Gostaria+de+iniciar+um+projeto+com+a+Work+in+Ideas." target="_blank" rel="noopener noreferrer" class="btn btn-primary" style="width: 100%; display: flex; align-items: center; justify-content: center; gap: 8px;">
+              <i class="bi bi-whatsapp"></i> <span>Falar no WhatsApp</span>
+            </a>
+          </div>
         </nav>
 
         <div class="header-actions">
           <a href="https://wa.me/5562983398612?text=Ol%C3%A1%21+Gostaria+de+iniciar+um+projeto+com+a+Work+in+Ideas." target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm btn-header-cta">
-            <span>Iniciar Projeto</span>
+            <i class="bi bi-whatsapp"></i> <span>Iniciar Projeto</span>
           </a>
           <button class="mobile-toggle" aria-label="Abrir Menu de Navegação" aria-expanded="false">
             <span></span>
@@ -484,9 +492,9 @@
         <!-- Left: Address & Contacts (NAP) -->
         <div style="font-size: 0.8125rem; max-width: 480px; line-height: 1.6;">
           <strong>Work in Ideas (WiiD)</strong><br />
-          Rua 137, nº 556, Qd. 50, Lt. 01, 1º andar, Sala 101, Ed. Alvorada<br />
-          Setor Marista, Goiânia/GO, CEP: 74170-120<br />
-          E-mail: <a href="mailto:contato@wi-id.com" style="color: #FFFFFF; text-decoration: underline;">contato@wi-id.com</a> | Tel/WhatsApp: <a href="https://wa.me/5562983398612" style="color: #FFFFFF; text-decoration: underline;">(62) 98339-8612</a>
+          <i class="bi bi-geo-alt-fill" style="margin-right: 4px;"></i> Rua 137, nº 556 Qd. 50, Lt. 01 - 1º andar, Sala 101 - Ed. Alvorada - Setor Marista, Goiânia/GO, CEP: 74170-120<br />
+          <i class="bi bi-clock-fill" style="margin-right: 4px;"></i> Funcionamento: Segunda à Sexta das 09h às 18h<br />
+          <i class="bi bi-envelope-fill" style="margin-right: 4px;"></i> E-mail: <a href="mailto:contato@wi-id.com" style="color: #FFFFFF; text-decoration: underline;">contato@wi-id.com</a> | <i class="bi bi-whatsapp" style="margin-right: 4px;"></i> Tel/WhatsApp: <a href="https://wa.me/5562983398612" style="color: #FFFFFF; text-decoration: underline;">(62) 98339-8612</a>
         </div>
 
         <!-- Center: WIID Logo -->
@@ -499,16 +507,19 @@
         <div style="display: flex; flex-direction: column; gap: var(--space-3); align-items: flex-end;">
           <div style="display: flex; gap: var(--space-3); align-items: center;">
             <a href="https://www.facebook.com/workinideas" target="_blank" rel="noopener noreferrer" class="footer-social-circle" aria-label="Acesse nossa página no Facebook">
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>
+              <i class="bi bi-facebook" aria-hidden="true" style="font-size: 1.2rem;"></i>
             </a>
-            <a href="https://www.instagram.com/workinideas/" target="_blank" rel="noopener noreferrer" class="footer-social-circle" aria-label="Acesse nosso perfil no Instagram">
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
+            <a href="https://www.instagram.com/workinideas/" target="_blank" rel="noopener noreferrer" class="footer-social-circle" aria-label="Acesse nosso perfil no Instagram (@workinideas)">
+              <i class="bi bi-instagram" aria-hidden="true" style="font-size: 1.2rem;"></i>
             </a>
             <a href="https://www.linkedin.com/company/workinideas/about/" target="_blank" rel="noopener noreferrer" class="footer-social-circle" aria-label="Acesse nossa página corporativa no LinkedIn">
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg>
+              <i class="bi bi-linkedin" aria-hidden="true" style="font-size: 1.2rem;"></i>
+            </a>
+            <a href="https://wa.me/5562983398612" target="_blank" rel="noopener noreferrer" class="footer-social-circle" aria-label="Fale conosco diretamente pelo WhatsApp">
+              <i class="bi bi-whatsapp" aria-hidden="true" style="font-size: 1.2rem;"></i>
             </a>
           </div>
-          <a href="#main-content" style="color: #FFFFFF; font-size: 0.75rem; font-family: var(--font-mono); text-decoration: underline;">▲ Voltar ao Topo</a>
+          <a href="#main-content" style="color: #FFFFFF; font-size: 0.75rem; font-family: var(--font-mono); text-decoration: underline; display: flex; align-items: center; gap: 4px;"><i class="bi bi-arrow-up-circle"></i> Voltar ao Topo</a>
         </div>
       </div>
 

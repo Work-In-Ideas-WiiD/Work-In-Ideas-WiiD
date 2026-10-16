@@ -1,20 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <defs>
-    <linearGradient id="wiid-border-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FF007A" />
-      <stop offset="50%" stop-color="#9B51E0" />
-      <stop offset="100%" stop-color="#00F0FF" />
-    </linearGradient>
-  </defs>
-  <!-- Background -->
-  <rect width="100" height="100" rx="20" fill="#07070A" />
-  <rect width="96" height="96" x="2" y="2" rx="18" fill="none" stroke="url(#wiid-border-grad)" stroke-width="2.5" stroke-opacity="0.6" />
+  <!-- Background Squircle matching dark tech palette -->
+  <rect width="100" height="100" rx="22" fill="#07070A" />
   
-  <!-- WIID Brand Logo Mark -->
-  <text x="50" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Space Mono', sans-serif" font-size="28" font-weight="900" text-anchor="middle" letter-spacing="1">
-    <tspan fill="#FFFFFF">WI</tspan><tspan fill="#FF007A">I</tspan><tspan fill="#FFFFFF">D</tspan>
-  </text>
-  
-  <!-- Accent Glow Dot -->
-  <circle cx="58" cy="38" r="3.5" fill="#FF007A" />
+  <!-- WIID Brand Logo Mark (Authentic logotipo-wiid-branco) -->
+  <g transform="translate(8, 32.26) scale(0.1037037)">
+    <path fill="#FFFFFF" fill-rule="evenodd" d="
+      M 0,0 L 58.5,0 L 58.5,233.5 L 145.5,116.5 L 232.5,233.5 L 232.5,0 L 291.5,0 L 291.5,341.5 L 238.5,341.5 L 145.5,214.5 L 52.5,341.5 L 0,341.5 Z
+      M 330,0 L 388.5,0 L 388.5,341.5 L 330,341.5 Z
+      M 427,0 L 485.5,0 L 485.5,341.5 L 427,341.5 Z
+      M 521,0 L 638.5,0 A 170.75,170.75 0 0 1 809.5,170.75 A 170.75,170.75 0 0 1 638.5,341.5 L 521,341.5 Z
+      M 579.5,58 L 638.5,58 A 112.75,112.75 0 0 1 751.25,170.75 A 112.75,112.75 0 0 1 638.5,283.5 L 579.5,283.5 Z
+    " />
+  </g>
 </svg>

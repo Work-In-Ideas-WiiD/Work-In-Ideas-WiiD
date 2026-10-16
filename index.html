@@ -180,6 +180,68 @@
             }
           ]
         }
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://wi-id.com/#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Como funciona a contratação e a precificação dos projetos na Work in Ideas?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Trabalhamos com dois modelos flexíveis e transparentes: Escopo Fechado (para projetos com escopo definido, prazo e investimento fixos pré-acordados) e Squad Ágil / Equipe Dedicada (alocação sob demanda cobrada por sprint ou mensalidade para evolução contínua). Oferecemos diagnóstico técnico gratuito antes de qualquer contratação."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Quem é o proprietário do código-fonte e dos designs criados?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A propriedade intelectual é 100% do cliente. Após a homologação e liquidação de cada etapa, transferimos integralmente todos os repositórios Git, protótipos Figma, acessos a servidores e bancos de dados, sem travas proprietárias ou taxas ocultas de licenciamento."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Quais são os prazos médios de desenvolvimento?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Websites institucionais e landing pages costumam ser entregues de 2 a 4 semanas; sistemas web e MVPs sob medida de 6 a 12 semanas; e aplicativos mobile completos de 8 a 16 semanas. As entregas são graduais a cada sprint quinzenal para validação da equipe do cliente."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Como funciona a garantia e o suporte técnico após o lançamento?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oferecemos garantia contratual de 90 dias após a publicação para correção sem custo de qualquer inconsistência referente ao escopo aprovado. Também oferecemos planos contínuos de sustentação técnica com SLA garantido para evolução contínua e monitoramento de servidores."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Como é garantida a segurança das informações e a conformidade com a LGPD?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Seguimos as diretrizes da LGPD (Lei Geral de Proteção de Dados) e boas práticas internacionais da OWASP: criptografia ponta a ponta (HTTPS/TLS), autenticação segura com JWT/OAuth2, acordos mútuos de confidencialidade (NDA) e infraestrutura isolada com backups automáticos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Quais tecnologias e infraestruturas a WiiD utiliza?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Trabalhamos com tecnologias consolidadas no mercado: React, Next.js, React Native, Vue.js, Node.js, Python, TypeScript, PostgreSQL, MongoDB, Docker, AWS, Google Cloud e Cloudflare."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Onde a empresa está localizada e como funcionam as reuniões?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Nossa sede corporativa fica na Rua 137, nº 556, Edifício Alvorada, Sala 101, Setor Marista, Goiânia/GO. Atendemos presencialmente mediante agendamento e realizamos reuniões virtuais frequentes via Google Meet para clientes em todo o Brasil e no exterior."
+            }
+          }
+        ]
       }
     ]
   }
@@ -203,6 +265,7 @@
           <a href="#processos" class="nav-link">Como Trabalhamos</a>
           <a href="#servicos" class="nav-link">Serviços</a>
           <a href="./projetos/" class="nav-link">Projetos &amp; Clientes</a>
+          <a href="#faq" class="nav-link">Dúvidas Frequentes</a>
           <a href="./sobre/" class="nav-link">Sobre Nós</a>
           <a href="#contato" class="nav-link">Fale Conosco</a>
           <div class="mobile-drawer-cta">
@@ -232,6 +295,7 @@
     <a href="#processos" class="vertical-nav-link">COMO?</a>
     <a href="#servicos" class="vertical-nav-link">SERVIÇOS</a>
     <a href="#clientes" class="vertical-nav-link">CLIENTES</a>
+    <a href="#faq" class="vertical-nav-link">FAQ</a>
     <a href="#contato" class="vertical-nav-link">CONTATOS</a>
   </aside>
 
@@ -707,6 +771,137 @@
       </div>
     </section>
 
+    <!-- FAQ - PERGUNTAS FREQUENTES (Transparência Técnica & Comercial) -->
+    <section id="faq" class="section-block" style="background: rgba(10, 7, 20, 0.5); border-top: 1px solid rgba(255, 255, 255, 0.06); border-bottom: 1px solid rgba(255, 255, 255, 0.06);">
+      <div class="container">
+        <div class="section-header text-center" style="margin-bottom: var(--space-12);">
+          <span class="tag-code-pink">&lt;faq&gt; Perguntas Frequentes &lt;/faq&gt;</span>
+          <h2 style="font-size: clamp(2rem, 3.5vw, 2.75rem); margin-top: var(--space-3); margin-bottom: var(--space-3);">
+            Dúvidas Frequentes &amp; <span class="text-gradient">Transparência Comercial</span>
+          </h2>
+          <p class="section-subtitle" style="margin: 0 auto;">
+            Tudo o que você precisa saber sobre modelos de contratação, prazos, propriedade do código, segurança e metodologia antes de iniciar seu projeto com a Work in Ideas.
+          </p>
+        </div>
+
+        <div class="faq-accordion-group">
+          <!-- Item 1: Modelos de contratação e preços -->
+          <details class="faq-item" open>
+            <summary class="faq-summary">
+              <span>Como funciona a contratação e a precificação dos projetos?</span>
+              <span class="faq-icon" aria-hidden="true"><i class="bi bi-chevron-down"></i></span>
+            </summary>
+            <div class="faq-answer">
+              Trabalhamos com dois modelos transparentes e flexíveis de contratação:
+              <br /><br />
+              <strong>1. Escopo Fechado:</strong> Ideal para projetos com requisitos e entregáveis bem definidos. Definimos previamente o cronograma, as etapas e o valor fixo total de investimento, sem surpresas no orçamento.
+              <br />
+              <strong>2. Squad Ágil / Equipe Dedicada:</strong> Alocação de engenheiros, designers de UI/UX e analistas de QA dedicados ao seu produto, com remuneração mensal ou por sprint quinzenal. Perfeito para empresas que precisam acelerar o roadmap e evoluir funcionalidades continuamente.
+              <br /><br />
+              Antes de qualquer proposta contratual, realizamos um <strong>diagnóstico técnico gratuito</strong> para mapear as reais necessidades da sua empresa e recomendar o formato de melhor custo-benefício.
+            </div>
+          </details>
+
+          <!-- Item 2: Propriedade intelectual do código -->
+          <details class="faq-item">
+            <summary class="faq-summary">
+              <span>Quem é o proprietário do código-fonte e dos designs criados?</span>
+              <span class="faq-icon" aria-hidden="true"><i class="bi bi-chevron-down"></i></span>
+            </summary>
+            <div class="faq-answer">
+              <strong>A propriedade intelectual é 100% sua (do cliente).</strong> A Work in Ideas não retém direitos autorais patrimoniais sobre o software desenvolvido. Após a homologação e liquidação de cada etapa, transferimos integralmente o acesso aos repositórios no GitHub/GitLab, protótipos de design no Figma, chaves de API, credenciais de nuvem e banco de dados. Você terá independência total e autonomia sobre todos os ativos tecnológicos da sua empresa.
+            </div>
+          </details>
+
+          <!-- Item 3: Prazos médios -->
+          <details class="faq-item">
+            <summary class="faq-summary">
+              <span>Quais são os prazos médios típicos de desenvolvimento?</span>
+              <span class="faq-icon" aria-hidden="true"><i class="bi bi-chevron-down"></i></span>
+            </summary>
+            <div class="faq-answer">
+              Os prazos são calculados sob medida para a complexidade técnica de cada solução:
+              <ul style="margin: var(--space-2) 0; padding-left: var(--space-5);">
+                <li><strong>Websites e Landing Pages de Alta Conversão:</strong> De 2 a 4 semanas.</li>
+                <li><strong>Sistemas Web, Portais e MVPs:</strong> De 6 a 12 semanas.</li>
+                <li><strong>Aplicativos Mobile Nativos/Híbridos (iOS e Android):</strong> De 8 a 16 semanas.</li>
+              </ul>
+              Não trabalhamos com "caixa preta": os projetos são divididos em <strong>sprints quinzenais</strong> com entregas funcionais em ambiente de teste para acompanhamento contínuo da sua equipe.
+            </div>
+          </details>
+
+          <!-- Item 4: Metodologia e aprovação -->
+          <details class="faq-item">
+            <summary class="faq-summary">
+              <span>Como é feito o acompanhamento e quem aprova as entregas?</span>
+              <span class="faq-icon" aria-hidden="true"><i class="bi bi-chevron-down"></i></span>
+            </summary>
+            <div class="faq-answer">
+              Utilizamos frameworks ágeis (Scrum/Kanban). A cada ciclo de 15 dias, apresentamos uma demonstração funcional da evolução do software em um ambiente seguro de homologação (<em>staging</em>). O cliente valida as telas e regras de negócio, e somente após o <strong>aceite formal</strong> a entrega é dada como concluída e liberada para a próxima fase.
+            </div>
+          </details>
+
+          <!-- Item 5: Stack Tecnológica -->
+          <details class="faq-item">
+            <summary class="faq-summary">
+              <span>Quais tecnologias, linguagens e infraestruturas a WiiD utiliza?</span>
+              <span class="faq-icon" aria-hidden="true"><i class="bi bi-chevron-down"></i></span>
+            </summary>
+            <div class="faq-answer">
+              Priorizamos pilhas tecnológicas estáveis, modernas e amplamente adotadas no ecossistema global:
+              <br /><br />
+              • <strong>Front-end Web:</strong> React, Next.js, Vue.js, TypeScript e Tailwind CSS.<br />
+              • <strong>Aplicativos Mobile:</strong> React Native e Flutter para iOS e Android com alto desempenho nativo.<br />
+              • <strong>Back-end &amp; Microsserviços:</strong> Node.js, Python, arquitetura RESTful e GraphQL.<br />
+              • <strong>Bancos de Dados:</strong> PostgreSQL, MySQL, MongoDB e Redis.<br />
+              • <strong>Cloud &amp; DevOps:</strong> AWS, Google Cloud, Docker, Kubernetes, CI/CD automatizado e Cloudflare.
+            </div>
+          </details>
+
+          <!-- Item 6: Garantia e Pós-lançamento -->
+          <details class="faq-item">
+            <summary class="faq-summary">
+              <span>Como funciona a garantia e o suporte técnico após o lançamento?</span>
+              <span class="faq-icon" aria-hidden="true"><i class="bi bi-chevron-down"></i></span>
+            </summary>
+            <div class="faq-answer">
+              Todo projeto desenvolvido pela Work in Ideas conta com <strong>90 dias de garantia contratual</strong> contra qualquer inconsistência, bug ou falha de funcionamento referente ao escopo aprovado, com correção prioritária sem custo. Além disso, disponibilizamos planos opcionais de <strong>Sustentação e Suporte Contínuo (SLA)</strong> com monitoramento 24/7, atualizações preventivas de bibliotecas, backup de segurança e evolução contínua de novas features.
+            </div>
+          </details>
+
+          <!-- Item 7: Segurança e LGPD -->
+          <details class="faq-item">
+            <summary class="faq-summary">
+              <span>Como é garantida a segurança das informações e a conformidade com a LGPD?</span>
+              <span class="faq-icon" aria-hidden="true"><i class="bi bi-chevron-down"></i></span>
+            </summary>
+            <div class="faq-answer">
+              A segurança dos dados é tratada como pilar estrutural desde o primeiro rascunho de arquitetura. Adotamos práticas rigorosas alinhadas à <strong>LGPD (Lei Geral de Proteção de Dados)</strong> e ao padrão internacional <strong>OWASP</strong>:
+              <ul style="margin: var(--space-2) 0; padding-left: var(--space-5);">
+                <li>Criptografia de ponta a ponta (HTTPS/TLS) e hashing seguro de senhas (bcrypt/Argon2).</li>
+                <li>Autenticação robusta (JWT, OAuth 2.0, verificação em duas etapas).</li>
+                <li>Tratamento restrito e termo de confidencialidade mútuo (NDA) formalizado antes do início do projeto.</li>
+                <li>Políticas de minimização de coleta de dados e conformidade com os direitos dos titulares.</li>
+              </ul>
+            </div>
+          </details>
+
+          <!-- Item 8: Endereço e Atendimento Presencial/Remoto -->
+          <details class="faq-item">
+            <summary class="faq-summary">
+              <span>Onde a empresa está sediada e como funcionam as reuniões?</span>
+              <span class="faq-icon" aria-hidden="true"><i class="bi bi-chevron-down"></i></span>
+            </summary>
+            <div class="faq-answer">
+              Nossa sede corporativa e fiscal está localizada no <strong>Setor Marista em Goiânia/GO</strong>: Rua 137, nº 556, Quadra 50, Lote 01, 1º andar, Sala 101, Edifício Alvorada (CEP 74170-120).
+              <br /><br />
+              Recebemos clientes com agendamento prévio em nossa sede para reuniões de ideação e planejamento. Além disso, atendemos clientes em todo o Brasil e no exterior com rotinas de reuniões 100% remotas via Google Meet, canal exclusivo de alinhamento e gestão ágil transparente.
+            </div>
+          </details>
+        </div>
+      </div>
+    </section>
+
     <!-- CONTATO (Tem um projeto em mente?) -->
     <section id="contato" class="section-block">
       <div class="container">
@@ -719,14 +914,32 @@
             </h2>
             <span class="tag-code-pink" style="margin-bottom: var(--space-4);">&lt;/title&gt;</span>
 
-            <p style="font-size: 1.0625rem; color: var(--color-text-secondary); margin-bottom: var(--space-6); max-width: 480px;">
-              Vamos tomar um café! Envie uma mensagem para que possamos fazer um diagnóstico e orçamento sob medida para o seu projeto.
+            <p style="font-size: 1.0625rem; color: var(--color-text-secondary); margin-bottom: var(--space-4); max-width: 480px;">
+              Vamos tomar um café! Envie uma mensagem para que possamos fazer um diagnóstico técnico e orçamento sob medida para o seu projeto.
             </p>
 
-            <div style="display: flex; gap: var(--space-4); margin-bottom: var(--space-6);">
-              <a href="https://wa.me/5562983398612?text=Ol%C3%A1%2C+eu+gostaria+falar+sobre+meu+projeto." target="_blank" rel="noopener noreferrer" class="btn-pill-gradient" style="align-self: flex-start;">
-                <i class="bi bi-whatsapp" style="margin-right: 6px;"></i> <span>ENVIAR WHATSAPP</span>
+            <!-- Direct Contact Channels Strip (Hiper-Visibilidade) -->
+            <div class="contact-direct-strip">
+              <a href="https://wa.me/5562983398612?text=Ol%C3%A1%2C+gostaria+de+um+or%C3%A7amento+com+a+Work+in+Ideas." target="_blank" rel="noopener noreferrer" class="contact-direct-card" aria-label="Iniciar conversa no WhatsApp">
+                <i class="bi bi-whatsapp contact-direct-icon" style="color: #25D366;"></i>
+                <div>
+                  <div style="font-size: 0.75rem; color: var(--color-text-muted); text-transform: uppercase; font-family: var(--font-mono);">WhatsApp Direto</div>
+                  <strong style="color: #FFFFFF; font-size: 0.9375rem;">(62) 98339-8612</strong>
+                </div>
               </a>
+              <a href="mailto:contato@wi-id.com" class="contact-direct-card" aria-label="Enviar e-mail para contato@wi-id.com">
+                <i class="bi bi-envelope-fill contact-direct-icon" style="color: var(--color-neon-cyan);"></i>
+                <div>
+                  <div style="font-size: 0.75rem; color: var(--color-text-muted); text-transform: uppercase; font-family: var(--font-mono);">E-mail Corporativo</div>
+                  <strong style="color: #FFFFFF; font-size: 0.9375rem;">contato@wi-id.com</strong>
+                </div>
+              </a>
+            </div>
+
+            <!-- Address Badge -->
+            <div style="display: flex; align-items: flex-start; gap: var(--space-2); font-size: 0.8125rem; color: var(--color-text-secondary); margin-bottom: var(--space-6); background: rgba(255, 255, 255, 0.03); padding: 8px 12px; border-radius: var(--radius-sm); border: 1px solid rgba(255, 255, 255, 0.08); max-width: 480px;">
+              <i class="bi bi-geo-alt-fill" style="color: var(--color-neon-pink); font-size: 1rem; margin-top: 1px;"></i>
+              <span><strong>Sede em Goiânia/GO:</strong> Rua 137, nº 556, Ed. Alvorada, Sala 101, Setor Marista (Seg a Sex das 09h às 18h)</span>
             </div>
 
             <!-- Form with Brazilian Phone Masking & Accessible Labels -->

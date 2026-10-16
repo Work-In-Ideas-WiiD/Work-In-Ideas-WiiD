@@ -1,15 +1,17 @@
 # Work in Ideas (WiiD)
 
-> Fábrica de software sob medida, desenvolvimento de aplicativos móveis (iOS e Android), sistemas web corporativos, lojas virtuais (e-commerce) e squads ágeis de desenvolvimento de software com sede em Goiânia/GO.
+> Fábrica de software sob medida, desenvolvimento de aplicativos móveis (iOS e Android), sistemas web corporativos, lojas virtuais (e-commerce) e squads ágeis de desenvolvimento de software com sede no Setor Marista em Goiânia/GO.
 
 ## Sobre a Empresa
-- **Nome:** Work in Ideas (WiiD)
-- **Segmento:** Desenvolvimento de Software e Negócios Digitais
+- **Nome Oficial:** Work in Ideas (WiiD)
+- **Segmento:** Engenharia de Software, Aplicativos e Negócios Digitais
 - **Slogan:** We are makers
-- **Localização:** Rua 137, nº 556 Qd. 50, Lt. 01 - 1º andar, Sala 101 - Ed. Alvorada - Setor Marista, Goiânia - GO, CEP 74170-120
-- **Contato:** (62) 98339-8612 | contato@wi-id.com
+- **Sede Oficial:** Rua 137, nº 556 Qd. 50, Lt. 01 - 1º andar, Sala 101 - Ed. Alvorada - Setor Marista, Goiânia - GO, CEP 74170-120
+- **Atendimento:** Presencial em Goiânia/GO com agendamento e reuniões remotas para clientes em todo o Brasil e exterior
+- **Contato Oficial:** (62) 98339-8612 | contato@wi-id.com
 - **Horário de Atendimento:** Segunda à Sexta das 09h às 18h
-- **Redes Sociais:** Instagram (@workinideas), LinkedIn, Facebook
+- **Redes Sociais Oficiais:** Instagram (@workinideas), LinkedIn (Work in Ideas), Facebook
+- **Arquitetura & Segurança:** Infraestrutura estática e segura hospedada via GitHub Pages com proteção Cloudflare (sem CMS vulnerável ou banco suscetível a spam).
 
 ## Serviços Especializados
 - **Desenvolvimento de Websites:** Sites institucionais exclusivos, responsivos e otimizados para Core Web Vitals, SEO e alta conversão.
@@ -18,14 +20,22 @@
 - **Lojas Virtuais (E-commerce):** Plataformas de comércio eletrônico com checkout transparente, integrações de pagamento e frete automatizados.
 - **Equipe Técnica & Squads Ágeis:** Alocação de squads multidisciplinares de desenvolvedores, analistas de QA, designers de UI/UX e líderes técnicos.
 
+## Perguntas Frequentes & Transparência Comercial (FAQ)
+- **Modelos de Contratação:** Trabalhamos com Escopo Fechado (preço e prazo fixos pré-acordados) e Squad Dedicada Ágil (cobrança mensal ou por sprint quinzenal para produtos em evolução). Realizamos diagnóstico técnico gratuito antes de qualquer contratação.
+- **Propriedade Intelectual:** A propriedade do código-fonte, designs e repositórios Git é 100% do cliente após a quitação das etapas. Sem taxas ocultas de licenciamento.
+- **Prazos Médios:** Websites (2 a 4 semanas); Sistemas Web e MVPs (6 a 12 semanas); Aplicativos Mobile (8 a 16 semanas). Entregas contínuas a cada sprint de 15 dias em ambiente de homologação (staging).
+- **Garantia e Suporte:** 90 dias de garantia contratual completa contra bugs e falhas pós-lançamento, com suporte prioritário e planos contínuos de sustentação (SLA).
+- **Segurança da Informação e LGPD:** Criptografia ponta a ponta (HTTPS/TLS), autenticação segura (JWT, OAuth 2.0), termos mútuos de confidencialidade (NDA) e total conformidade com a LGPD.
+- **Stack Tecnológica:** React, React Native, Next.js, Vue.js, Node.js, Python, TypeScript, PostgreSQL, MongoDB, Docker, AWS, Google Cloud e Cloudflare.
+
 ## Páginas Principais
-- [Início](https://wi-id.com/): Visão geral da empresa, modelo de entrega em 4 etapas (Análise, Modelagem, Desenvolvimento, Evolução), catálogo de serviços e clientes.
+- [Início](https://wi-id.com/): Visão geral da empresa, modelo de entrega em 4 etapas (Análise, Modelagem, Desenvolvimento, Evolução), catálogo de serviços, FAQ comercial e clientes parceiros.
 - [Serviços](https://wi-id.com/servicos/): Catálogo geral de soluções em engenharia de software e tecnologia.
 - [Criação de Sites](https://wi-id.com/servicos/desenvolvimento-web/): Desenvolvimento de websites profissionais e landing pages exclusivas.
 - [Sistemas Web Sob Medida](https://wi-id.com/servicos/sistemas-web/): Desenvolvimento de sistemas corporativos, plataformas web e integrações de API.
 - [Aplicativos Mobile](https://wi-id.com/servicos/aplicativos-mobile/): Desenvolvimento de aplicativos para smartphone (iOS e Android).
 - [Lojas Virtuais](https://wi-id.com/servicos/ecommerce/): Criação e desenvolvimento de e-commerces de alta conversão e segurança.
 - [Squads Ágeis & Equipe Técnica](https://wi-id.com/servicos/outsourcing/): Alocação de desenvolvedores e squads de sustentação técnica sob medida.
-- [Projetos & Portfólio](https://wi-id.com/projetos/): Casos de sucesso, portfólio 2026 e clientes atendidos como Localiza, Jeitto e Sapore.
-- [Sobre Nós](https://wi-id.com/sobre/): História da Work in Ideas, cultura maker, equipe e manifesto institucional.
-- [Contato & Orçamento](https://wi-id.com/contato/): Canais diretos de atendimento via WhatsApp, formulário e localização no Setor Marista, Goiânia/GO.
+- [Projetos & Portfólio](https://wi-id.com/projetos/): Casos de sucesso com estrutura Desafio-Solução-Impacto, download do Portfólio 2026 (PDF) e clientes como Localiza, Jeitto e Sapore.
+- [Sobre Nós](https://wi-id.com/sobre/): História da Work in Ideas, cultura maker, governança, garantias e sede física em Goiânia.
+- [Contato & Orçamento](https://wi-id.com/contato/): Canais diretos de atendimento via WhatsApp, e-mail institucional (contato@wi-id.com) e localização no Setor Marista, Goiânia/GO.
